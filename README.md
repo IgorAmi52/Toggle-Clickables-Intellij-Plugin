@@ -1,0 +1,1 @@
+# Toggle-Clickables-Intellij-Plugin
